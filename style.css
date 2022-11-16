@@ -1,0 +1,148 @@
+body{
+    background-image: url(333.jpg);
+    background-size: cover;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.btn{
+    color: blue;
+    padding: 20px;
+    background-color: rgba(245, 245, 220, 0.247);
+    border: none;
+    margin-left: 4px;
+    font-family: Arial;
+    font-size: large;
+    font-style: initial;
+    font-style: normal;
+
+}
+.btn:hover{
+    background-color: rgb(194, 166, 11);
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: rgb(230, 7, 163);
+    font-style: oblique;
+}
+.hello{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: 900px;
+    font-family: arial;
+    font-style: oblique;
+}
+.intro{
+    color:white;
+    text-align: center;
+    font-size: larger;
+}
+.h{
+    color: red;
+    font-size: 80px;
+}
+.f{
+    color:rgb(0, 0, 0);
+}
+.img1{
+float: center;
+}
+.btn1{
+    text-align: center;
+    margin-top: 30px;
+
+}
+.link1{
+    padding: 30px;
+    color: white;
+    text-decoration: none;
+}
+.link1:hover{
+    color: black;
+
+}
+.btn2{
+    padding: 30px;
+    background: transparent;
+    border: none;
+}
+.btn2:hover{
+    background-color: rgb(194, 11, 11);
+}
+.html{
+    width: 200px;
+}
+.photo{
+    text-align: center;
+    margin-top: 30px;
+}
+.par2{
+    color: white;
+}
+.link4{
+    color: rgb(16, 60, 204);
+    text-decoration: none;
+}
+.link4:hover{
+    color:yellow;
+}
+.link5{
+    color: rgb(16, 60, 204);
+    text-decoration: none;
+}
+.link5:hover{
+    color:yellow;
+}
+.css{
+    width: 200px;
+}
+.photo1{
+    text-align: center;
+    margin: 30px;
+}
+.par3{
+    color: white;
+}
+.link6{
+    color: rgb(16, 60, 204);
+    text-decoration: none;
+}
+.link6:hover{
+    color:yellow;
+}
+.link7{
+    color: rgb(16, 60, 204);
+    text-decoration: none;
+}
+.link7:hover{
+    color:yellow;
+}
+.photo2{
+    text-align: center;
+    margin: 50px;
+}
+.js{
+    width: 200px;
+}
+.par4{
+    color: white;
+}
+.link8{
+    color: rgb(16, 60, 204);
+    text-decoration: none;
+}
+.link8:hover{
+    color:yellow;
+}
+.link9{
+    color: rgb(16, 60, 204);
+    text-decoration: none;
+}
+.link9:hover{
+    color:yellow;
+}
